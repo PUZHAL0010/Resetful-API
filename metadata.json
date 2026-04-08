@@ -1,0 +1,5 @@
+{
+  "name": "Online Store API Explorer",
+  "description": "A RESTful API for managing products in an online store, featuring a technical dashboard for testing and monitoring.",
+  "requestFramePermissions": []
+}
